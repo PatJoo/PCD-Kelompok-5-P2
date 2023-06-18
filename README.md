@@ -48,10 +48,13 @@ Setelah praproses selesai, model Artificial Neural Network (ANN) dapat dibangun 
 Hasil dari penelitian ini adalah model yang dapat membantu dalam melakukan klasifikasi kualitas daging berdasarkan citra. Performa model dapat dilihat dalam visualisasi atau grafik yang dihasilkan. Berikut ini adalah contoh beberapa metrik evaluasi yang dapat digunakan untuk mengevaluasi model:
 
 ○ Akurasi (accuracy)
+
 ○ Confusion matrix (heatmap)
+
 ○ Laporan klasifikasi (classification report)
 
-![image](https://github.com/PatJoo/PCD-Kelompok-5-P2/assets/86305950/adbb2731-9ae7-4220-aad2-6ce53ce2fb8c){width=400px}
+Contoh hasil prediksi : 
+![image](https://github.com/PatJoo/PCD-Kelompok-5-P2/assets/86305950/adbb2731-9ae7-4220-aad2-6ce53ce2fb8c)
 
 
 ## Referensi
