@@ -1,5 +1,4 @@
 # PCD-Kelompok-5-P2
-Proses Pengolahan Citra Digital dengan Metode ANN dalam Penentuan Kualitas Daging
 # Proses Pengolahan Citra Digital dengan Metode ANN dalam Penentuan Kualitas Daging
 
 Kebutuhan konsumsi daging sangat berkembang pesat dalam kalangan masyarakat. Tingginya tingkat konsumsi daging membuat sangat memungkinkan ditemukannya daging tidak berkualitas yang diperjualbelikan. Hal tersebut menyebabkan pentingnya identifikasi untuk menentukan layak atau tidaknya suatu daging dikonsumsi. Proses analisis identifikasi dibutuhkan dalam menentukan kualitas daging yang beredar di masyarakat. Proses penentuan kualitas daging dapat dilakukan dengan melakukan identifikasi citra daging. Salah satu metode yang umum digunakan dalam klasifikasi identifikasi citra digital adalah artificial neural network. Oleh karena itu, penulis memutuskan untuk melakukan penelitian “Proses Pengolahan Citra Digital dengan Metode ANN dalam Penentuan Kualitas Daging”. Hasil yang diharapkan dari penelitian ini adalah ditemukannya model yang dapat membantu masyarakat untuk melakukan klasifikasi kualitas daging.
