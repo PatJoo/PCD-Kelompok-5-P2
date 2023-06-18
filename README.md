@@ -35,22 +35,20 @@ Proses membangun model menggunakan algoritma Artificial Neural Network (ANN) dar
 
 Praproses:
 
-Membuat objek series.
-Visualisasi data.
-Memisahkan data menjadi data latih dan data uji.
-Normalisasi data.
+- Membuat objek series.
+- Visualisasi data.
+- Memisahkan data menjadi data latih dan data uji.
+- Normalisasi data.
 
 Pembuatan Model
-Setelah praproses selesai, model Artificial Neural Network (ANN) dapat dibangun dan dilatih menggunakan data latih. Pembuatan model dilakukan secara sequential dimana aliran data melalui layer input ke layer-layer tersembunyi dan terakhir ke layer output menggunakan fungsi sequential dalam tensorflow keras. 
+- Setelah praproses selesai, model Artificial Neural Network (ANN) dapat dibangun dan dilatih menggunakan data latih. Pembuatan model dilakukan secara sequential dimana aliran data melalui layer input ke layer-layer tersembunyi dan terakhir ke layer output menggunakan fungsi sequential dalam tensorflow keras. 
 
 ## Hasil
 Hasil dari penelitian ini adalah model yang dapat membantu dalam melakukan klasifikasi kualitas daging berdasarkan citra. Performa model dapat dilihat dalam visualisasi atau grafik yang dihasilkan. Berikut ini adalah contoh beberapa metrik evaluasi yang dapat digunakan untuk mengevaluasi model:
 
-○ Akurasi (accuracy)
-
-○ Confusion matrix (heatmap)
-
-○ Laporan klasifikasi (classification report)
+- Akurasi (accuracy)
+- Confusion matrix (heatmap)
+- Laporan klasifikasi (classification report)
 
 Contoh hasil prediksi : 
 ![image](https://github.com/PatJoo/PCD-Kelompok-5-P2/assets/86305950/adbb2731-9ae7-4220-aad2-6ce53ce2fb8c)
