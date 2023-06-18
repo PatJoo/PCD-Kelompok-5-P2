@@ -70,3 +70,10 @@ Contoh hasil prediksi :
 ○ Yanto M, Arlis S, Putra DM. 2022. "Multiple Linear Regression pada Fuzzy Neural Network (FNN) untuk Penentuan Kualitas Daging Sapi." Jurnal Sains & Teknologi Universitas Pendidikan Ganesha. 11(1):94.
 
 ○ Yuristiawan D. "Identifikasi Kualitas Daging Sapi Berbasis Android dengan Ekstraksi Fitur Warna dan Klasifikasi KNN." 2011. Eprints.dinus.ac.id. [diunduh 18 Juni 2023];1(1):2.
+
+## Kontributor
+- Bares Manggala Samhas
+- Citra Regita Nurtalia Wahyu Santosa
+- Joachim Patrick Sihotang
+- Rozan Maulana
+- Shabrina Basyasayah
